@@ -2,11 +2,14 @@
 title: Clinical Experiences
 cms_exclude: true
 type: landing
+# View
+view: card
+
 date: 2024-01-31
 headless: false
 
 sections:
-  - block: resume-experience
+  - block: experience
     content:
       date_format: January 2006
       items:
