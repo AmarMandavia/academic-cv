@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amar D. Mandavia
+title: Amar D. Mandavia 
 
 # Is this the primary user of the site?
 superuser: true
