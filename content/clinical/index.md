@@ -235,7 +235,7 @@ sections:
               * Conducted psychological and psych-educational assessments for adults and children
 
               * Administered tests assessing cognitive functioning, executive functioning, memory, & personality along with projective tests 
-        - title: Peer counselor
+        - title: Peer Counselor
           company: International House
           company_url: https://www.ihouse-nyc.org/
           company_logo: ihouse_logo
