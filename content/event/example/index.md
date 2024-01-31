@@ -1,5 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: Large language models (LLMs) are a type of artificial intelligence that are capable of generating human-quality text. They have been shown to be effective in a variety of tasks, including writing, translation, and summarization. In this presentation, we will discuss the potential of LLMs to be used in academic grant writing. We will present a case study that uses ChatGPT and Bard to generate early career style grant proposals. We will also discuss the limitations of LLMs, as well as some potential use cases and future directions for research.
 address:
   city: Stanford
   country: United States
@@ -28,15 +28,3 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
