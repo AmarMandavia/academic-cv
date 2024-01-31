@@ -3,7 +3,7 @@ title: Increase Access to Life-Saving Opioid Use Disorder Treatment in the Age o
   Fentanyl
 authors:
 - T. Rust
-- Mandavia A.
+- A. Mandavia
 date: '2023-08-01'
 publishDate: '2024-01-31T03:51:20.792594Z'
 publication_types:
