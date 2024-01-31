@@ -8,7 +8,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: " "
+      text: "Want to work together?"
       appointment_url: 'https://calendly.com/amarmandavia'
       contact_links:
         - icon: twitter
@@ -21,7 +21,7 @@ sections:
           link: https://scholar.google.com/citations?user=ce1HkCQAAAAJ&hl=en
         - icon: linkedin
           icon_pack: fab
-          name: Conenct with me
+          name: Connect with me
           link: https://www.linkedin.com/in/amar-mandavia/
 
       # Automatically link email and phone or display as text?
