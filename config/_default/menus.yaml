@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '/project'
     weight: 30
-  - name: Clinical Experience
+  - name: Clinical
     url: '/clinical'
     weight: 40
   - name: Talks

@@ -1,13 +1,11 @@
 ---
 title: Clinical Experiences
-cms_exclude: false
-#url: talk
 type: landing
+date: 2024-01-31
 
 sections:
-  - block: experience
+  - block: resume-experience
     content:
-      title: Clinical Experience
       date_format: January 2006
       items:
         - title: Postdoctoral Psychologist
