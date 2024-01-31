@@ -123,7 +123,7 @@ sections:
           date_end: 2020-06-30
           description: >-
               
-             **Psychotherapy Research Development Program:**
+              ** Psychotherapy Research Development Program:**
 
               * Provided individual psychotherapy for adult veterans with PTSD, severe mood and anxiety disorders, and character disorders, utilizing a variety of treatment approaches, including long-term psychodynamic psychotherapy, short-term Dynamic Interpersonal Therapy (DIT), Formulation-Based CBT, and CBT-I
 
