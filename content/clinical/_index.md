@@ -1,6 +1,6 @@
 ---
 sections:
-  - block: resume-experience
+  - block: experience
     content:
       title: Clinical Experience
       date_format: January 2006
