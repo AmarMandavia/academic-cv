@@ -7,10 +7,7 @@ tags:
   - NLP
   - Psychosis
 
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+date: ""
 
 image: 
   caption: Photo of Rorschach Inkblot Card 10
@@ -25,13 +22,6 @@ url_code: ""
 url_pdf: "static/NLP RPAS  SPA 2023 presentation.pdf"
 url_slides: ""
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: 
 ---
 Automated speech analysis using natural language processing (NLP) has the potential to improve diagnostics and prognostic measures for psychotic disorders.
 

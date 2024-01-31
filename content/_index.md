@@ -41,6 +41,7 @@ sections:
       
         My primary program of research takes a critical approach to the measurement, classification, and identification of digital phenotypes for adverse health outcomes.
         
+        
         My secondary line of research is concentrated on the development of a clinical decision-making systems that capitalize on common factors across psychotherapeutic processes to aid in personalized psychotherapy treatment selection. 
 
 
