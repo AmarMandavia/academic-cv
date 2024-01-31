@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-01-31
 type: landing
 
 sections:
@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename:  10.25 x 13.25 F.JPG
           filters:
             brightness: 0.5
           size: cover
@@ -24,12 +24,21 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: ''
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Medical Informatics postdoctoral fellow at the Boston VA Healthcare system and a Catalyst fellow at MIT. My primary program of research takes a critical approach to improving the measurement, classification, and identification of digital phenotypes for adverse health outcomes across individual, interpersonal, and community levels. My secondary line of research is concentrated on the development of a clinical decision-making systems that capitalize on common factors across psychotherapeutic processes to aid in personalized psychotherapy treatment selection. 
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        **Interest:** 
+        - Risk Predicition
+        - Digital Theraputics
+        - Healthcare Innovation
+        - Problem Areas: 
+          - Opioid Crisis
+          - Suicide
+          - Pscyhosis
+          - HIV
+          - PTSD
     design:
       columns: '1'
   - block: collection
@@ -38,7 +47,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: event
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -57,5 +66,5 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
 ---
