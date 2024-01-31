@@ -54,17 +54,5 @@ sections:
 
         - How can we get proven treatments to people faster?
 design:
-  columns: "2"
-education:
-  courses:
-    - course: PhD in Clinical Psychology
-      institution: Teachers College, Columbia University
-      year: 2022
-    - course: MA in Psychology in Education
-      institution: Teachers College, Columbia University
-      year: 2016
-    - course: BSc in Psychology (Minor in Sociology)
-      institution: Georgia State University
-      year: 2013
-
+  columns: "1"
 ---
