@@ -31,7 +31,7 @@ sections:
           company_logo: BIDMC_HMS_Stacked
           location: Boston, Massachusetts
           date_start: 2021-07-01
-          date_end: 2022-06-31
+          date_end: 2022-06-30
           description: >-
               
               Rapid Access to Flexible Treatment (RAFT):
