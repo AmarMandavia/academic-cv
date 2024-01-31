@@ -91,7 +91,7 @@ sections:
           company: Regulation of Emotion in Anxiety and Depression, Teachers College,
               Columbia University
           company_url: https://www.emotionregulationtherapy.com/
-          company_logo: ERT Logo.jpeg
+          company_logo: ERT Logo
           location: New York, New York
           date_start: 2020-04-01
           date_end: 2020-09-01
@@ -186,7 +186,7 @@ sections:
         - title: Student Psychologist
           company: Regulation of Emotion in Anxiety and Depression, Teachers College, Columbia University
           company_url: https://www.emotionregulationtherapy.com/
-          company_logo: ERT Logo.jpeg
+          company_logo: ERT Logo
           location: New York, New York
           date_start: 2018-09-01
           date_end: 2019-09-01
