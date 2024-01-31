@@ -10,7 +10,7 @@ role: Postdoctoral Fellow in Medical Informatics & Catalyst Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Boston Veterans Affairs Healthcare System 
+  - name: Boston Veterans Affairs Healthcare System 
     url: "https://www.va.gov/boston-health-care/"
   - name: Massachusetts Institute of Technology 
     url: "https://catalyst.mit.edu/"
