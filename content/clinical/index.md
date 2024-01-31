@@ -34,7 +34,7 @@ sections:
           date_end: 2022-06-30
           description: >-
               
-              Rapid Access to Flexible Treatment (RAFT):
+              **Rapid Access to Flexible Treatment (RAFT):**
 
               * Providing clinical intake services for high-risk adults attending partial hospitalization day program for individual with psychotic-spectrum disorders and/or character pathologies
 
@@ -46,7 +46,7 @@ sections:
 
               * Aid in training and supervision of psychology externs and psychiatry residents
 
-              Adult Outpatient Psychiatry Service:
+              **Adult Outpatient Psychiatry Service:**
 
               * Maintain a caseload of up to ten individual psychotherapy, providing Psychodynamic, Meta-cognition, Cognitive, and Behavioral based therapies for Department of Mental Health patients presenting with psychosis spectrum disorders
 
@@ -62,7 +62,7 @@ sections:
           date_end: 2021-06-30
           description: >-
               
-              Psychiatric Inpatient Unit (8A):
+              **Psychiatric Inpatient Unit (8A):**
 
               * Providing individual psychotherapy for adults admitted to mono- and bi-lingual psychiatric inpatient unit for psychotic disorders, major affective disorders, substance-abuse disorders, or a range of character pathologies
 
@@ -74,7 +74,7 @@ sections:
 
               * Participate in therapeutic milieu of unit and provide weekly updated on patient prognosis to multidisciplinary team
 
-              Comprehensive Addiction Treatment Center Outpatient (CATC):
+              **Comprehensive Addiction Treatment Center Outpatient (CATC):**
 
               * Maintain a caseload of up to three individual psychotherapy, providing Motivational Interviewing, and Behavioral approached for patients presenting with substance use disorders
 
@@ -82,7 +82,7 @@ sections:
 
               * Conduct focal psychiatric assessments, intakes, triage, and treatment planning for adult patients seeking substance use treatment
 
-              Adult & Pediatric HIV Comprehensive Services:
+              **Adult & Pediatric HIV Comprehensive Services:**
 
               * Maintain a caseload of up to three individual psychotherapy patients living with HIV/AIDS, presenting mood and anxiety disorder
 
@@ -97,7 +97,7 @@ sections:
           date_end: 2020-09-01
           description: >-
               
-              Emotion Regulation Therapy for the COVID-19 Pandemic:
+              **Emotion Regulation Therapy for the COVID-19 Pandemic:**
 
               * Conducted twice a week, manualized eight session Emotion Regulation Therapy for adult outpatients experiencing distress related to COVID-19 pandemic via synchronous telehealth 
 
@@ -123,7 +123,7 @@ sections:
           date_end: 2020-06-30
           description: >-
               
-              Psychotherapy Research Development Program:
+             **Psychotherapy Research Development Program:**
 
               * Provided individual psychotherapy for adult veterans with PTSD, severe mood and anxiety disorders, and character disorders, utilizing a variety of treatment approaches, including long-term psychodynamic psychotherapy, short-term Dynamic Interpersonal Therapy (DIT), Formulation-Based CBT, and CBT-I
 
@@ -159,14 +159,14 @@ sections:
         - title: Psychology Extern
           company: New York-Presbyterian- Weill Cornell Medicine, Program for Anxiety and
               Traumatic Stress Studies
-          company_url: https://www.va.gov/new-york-harbor-health-care/locations/manhattan-va-medical-center/
+          company_url: https://patss.weill.cornell.edu/
           company_logo: WCM_NYP logo
           location: New York, New York
           date_start: 2018-07-01
           date_end: 2019-06-30
           description: >-
               
-              Military Family Wellness Clinic:
+              **Military Family Wellness Clinic:**
 
               * Provide weekly individual psychotherapy services, in Cognitive Behavioral Therapy for Insomnia, Interpersonal Psychotherapy, Cognitive Processing Therapy, and Prolonged Exposure, to veterans and veteran family members suffering from mood, anxiety and post-traumatic stress disorders
 
@@ -174,7 +174,7 @@ sections:
 
               * Conduct weekly unstructured intakes and standardized diagnostic assessments, using the Clinician-Administered PTSD Scale for DSM-5 (CAP-5) and Mini International Neuropsychiatric Interview (MINI), for adult clients seeking services at the clinic
 
-              William Randolph Hearst Burn Center:
+              **William Randolph Hearst Burn Center:**
 
               * Provide consultation to assess psychiatric symptoms and brief cognitive-behavioral interventions at bedside to recently traumatized adult patients admitted to the medical inpatient unit
 
@@ -192,7 +192,7 @@ sections:
           date_end: 2019-09-01
           description: >-
               
-              Emotion Regulation Therapy for the COVID-19 Pandemic:
+              **Emotion Regulation Therapy for the COVID-19 Pandemic:**
 
               * Conduct weekly manualized 8 or 16 session Emotion Regulation Therapy for adult outpatients as part of a clinical trial
 
@@ -206,7 +206,7 @@ sections:
           date_end: 2021-06-30
           description: >-
               
-              Advanced Neuropsychological Assessment:
+              **Advanced Neuropsychological Assessment:**
 
               * Conducted neuropsychological and psych-educational assessments for adults
 
@@ -214,7 +214,7 @@ sections:
 
               * Administered tests assessing cognitive functioning, executive functioning, memory, & personality along with projective tests
 
-              Psychodynamic Psychotherapy:
+              **Psychodynamic Psychotherapy:**
 
               * Conduct intakes and twice weekly psychodynamic psychotherapy sessions for adult outpatients presenting at a community mental health clinic
 
@@ -222,7 +222,7 @@ sections:
 
               * Develop and implement treatment plans from varying approaches including relational, object-relations, transference-focused, and relational modalities
 
-              Cognitive-Behavioral Therapy:
+              **Cognitive-Behavioral Therapy:**
 
               * Conducted intakes and weekly Cognitive Behavioral psychotherapy sessions for adult outpatients presenting at a community mental health clinic
 
@@ -230,7 +230,7 @@ sections:
 
               * Implemented treatment approaches drawing from the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders and third wave CBT approaches including Acceptance and Commitment Therapy and Mindfulness-Based Cognitive Therapy
 
-              Psychological Assessment:
+              **Psychological Assessment:**
 
               * Conducted psychological and psych-educational assessments for adults and children
 
