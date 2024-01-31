@@ -249,17 +249,7 @@ sections:
               * Conduct monthly supervision sessions with assigned Resident Fellows to provide support, identify and resolve issues regarding roommate conflicts and floor events 
 
               * Assisted in development and maintenance of mental health resource website for residents
-      design:
-        columns: "2"
-      username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
 ---
