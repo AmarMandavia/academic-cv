@@ -59,7 +59,7 @@ sections:
           company_logo: NYC_Health_+_Hospitals_logo
           location: Bronx, New York
           date_start: 2020-09-01
-          date_end: 2021-06-31
+          date_end: 2021-06-30
           description: >-
               
               Psychiatric Inpatient Unit (8A):
