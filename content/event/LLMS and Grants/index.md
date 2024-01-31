@@ -25,6 +25,6 @@ tags:
 title: Large language models and Grant Writing
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "SMALL_LLMs in Academic Grant Writing.pdf"
 url_video: ""
 ---
