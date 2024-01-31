@@ -4,7 +4,7 @@ title: Amar D. Mandavia
 
 # Name pronunciation (optional)
 name_pronunciation: aam-ar
-url: "https://app2.nameshouts.com/names/public/pronounce-amar"
+# url: "https://app2.nameshouts.com/names/public/pronounce-amar"
 
 # Is this the primary user of the site?
 superuser: true
