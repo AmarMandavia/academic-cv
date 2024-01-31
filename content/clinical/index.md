@@ -105,7 +105,7 @@ sections:
         - title: Clinical Intake Extern
           company: Dean Hope Center for Educational and Psychological Services
           company_url: https://www.tc.columbia.edu/deanhope/
-          company_logo: DHCEPS logo.png
+          company_logo: DHCEPS logo
           location: New York, New York
           date_start: 2020-01-01
           date_end: 2020-05-31
@@ -147,7 +147,7 @@ sections:
         - title: Supervisor Training Practicum
           company: Dean Hope Center for Educational and Psychological Services
           company_url: https://www.tc.columbia.edu/deanhope/
-          company_logo: DHCEPS logo.png
+          company_logo: DHCEPS logo
           location: New York, New York
           date_start: 2019-01-01
           date_end: 2019-07-30
@@ -160,7 +160,7 @@ sections:
           company: New York-Presbyterian- Weill Cornell Medicine, Program for Anxiety and
               Traumatic Stress Studies
           company_url: https://www.va.gov/new-york-harbor-health-care/locations/manhattan-va-medical-center/
-          company_logo: WCM_NYP logo.png
+          company_logo: WCM_NYP logo
           location: New York, New York
           date_start: 2018-07-01
           date_end: 2019-06-30
@@ -200,7 +200,7 @@ sections:
         - title: Student Psychologist
           company: Dean Hope Center for Educational and Psychological Services
           company_url: https://www.tc.columbia.edu/deanhope/
-          company_logo: DHCEPS logo.png
+          company_logo: DHCEPS logo
           location: New York, New York
           date_start: 2017-01-01
           date_end: 2021-06-30
@@ -238,7 +238,7 @@ sections:
         - title: Peer counselor
           company: International House
           company_url: https://www.ihouse-nyc.org/
-          company_logo: ihouse_logo.png
+          company_logo: ihouse_logo
           location: New York, New York
           date_start: 2015-06-01
           date_end: 2026-05-30
