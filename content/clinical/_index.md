@@ -2,6 +2,7 @@
 title: Clinical Experiences
 type: landing
 date: 2024-01-31
+headless: false
 
 sections:
   - block: resume-experience

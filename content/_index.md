@@ -22,23 +22,34 @@ sections:
           size: cover
           position: center
           parallax: false
+  
   - block: markdown
     content:
       title: ''
       subtitle: ''
       text: |-
-        I am a Medical Informatics postdoctoral fellow at the Boston VA Healthcare system and a Catalyst fellow at MIT. My primary program of research takes a critical approach to improving the measurement, classification, and identification of digital phenotypes for adverse health outcomes across individual, interpersonal, and community levels. My secondary line of research is concentrated on the development of a clinical decision-making systems that capitalize on common factors across psychotherapeutic processes to aid in personalized psychotherapy treatment selection. 
-
         **Interest:** 
-        - Risk Predicition
-        - Digital Theraputics
+        - Risk Prediction
+        - Digital Therapeutics
         - Healthcare Innovation
-        - Problem Areas: 
+        - *Problem Areas:* 
           - Opioid Crisis
           - Suicide
-          - Pscyhosis
-          - HIV
+          - Psychosis
+          - HIV/STI
           - PTSD
+
+        My primary program of research takes a critical approach to         
+        the measurement, classification, and identification of digital phenotypes for adverse health outcomes.
+        
+        My secondary line of research is concentrated on the development of a clinical decision-making systems that capitalize on common factors across psychotherapeutic processes to aid in personalized psychotherapy treatment selection. 
+
+        **Answering questions:**
+        - Who gets sick and why?
+        - How can we deliver information to have the greatest positive impact?
+        - How can we get proven treatments to people faster?
+
+                  
     design:
-      columns: '1'
+      columns: '2'
 ---
