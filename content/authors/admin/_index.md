@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Amar D. Mandavia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow in Medical Informatics & Catalyst Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Boston Veterans Affairs Healthcare System 
+    url: "https://www.va.gov/boston-health-care/"
+  - name: Massachusetts Institute of Technology 
+    url: "https://catalyst.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Clinical psychologist & Informatician
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,21 +25,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:amar36@mit.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/amar36
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ce1HkCQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AmarMandavia
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/amar-mandavia/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: "https://drive.google.com/file/d/1pyX_CBFpxq6RfgGXjI_jqTpMZfimpZEE/view?usp=drive_link"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
