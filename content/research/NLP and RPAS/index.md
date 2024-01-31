@@ -18,9 +18,7 @@ links:
     icon_pack: ai
     name: Follow
     url: https://scholar.google.com/citations?user=ce1HkCQAAAAJ&hl=en
-url_code: ""
-url_pdf: "/workspaces/academic-cv.github.io/static/NLP RPAS  SPA 2023 presentation.pdf"
-url_slides: ""
+url_slides: "/workspaces/academic-cv.github.io/static/NLP RPAS  SPA 2023 presentation.pdf"
 url_video: ""
 ---
 

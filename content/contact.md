@@ -8,7 +8,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: "Want to work together?"
+      text: "**Want to work together?**"
       appointment_url: 'https://calendly.com/amarmandavia'
       contact_links:
         - icon: twitter
