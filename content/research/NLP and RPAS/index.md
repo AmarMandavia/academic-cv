@@ -19,10 +19,11 @@ links:
     name: Follow
     url: https://scholar.google.com/citations?user=ce1HkCQAAAAJ&hl=en
 url_code: ""
-url_pdf: "static/NLP RPAS  SPA 2023 presentation.pdf"
+url_pdf: "/workspaces/academic-cv.github.io/static/NLP RPAS  SPA 2023 presentation.pdf"
 url_slides: ""
 url_video: ""
 ---
+
 Automated speech analysis using natural language processing (NLP) has the potential to improve diagnostics and prognostic measures for psychotic disorders.
 
 The Rorschach Performance Assessment System (R-PAS) provides a structured procedure for gathering speech samples from Rorschach inkblot test; a meta-analytically supported ([Mihura et al., 2013](https://psycnet.apa.org/record/2012-23139-001)) reliable and valid measure of psychotic symptoms, such as disorganized thinking. 
