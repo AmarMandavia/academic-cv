@@ -46,6 +46,7 @@ sections:
 
               * Aid in training and supervision of psychology externs and psychiatry residents
 
+
               **Adult Outpatient Psychiatry Service:**
 
               * Maintain a caseload of up to ten individual psychotherapy, providing Psychodynamic, Meta-cognition, Cognitive, and Behavioral based therapies for Department of Mental Health patients presenting with psychosis spectrum disorders
@@ -74,6 +75,7 @@ sections:
 
               * Participate in therapeutic milieu of unit and provide weekly updated on patient prognosis to multidisciplinary team
 
+
               **Comprehensive Addiction Treatment Center Outpatient (CATC):**
 
               * Maintain a caseload of up to three individual psychotherapy, providing Motivational Interviewing, and Behavioral approached for patients presenting with substance use disorders
@@ -81,6 +83,7 @@ sections:
               * Co-lead three weekly harm-reduction and DBT groups for adults seeking substance use treatment
 
               * Conduct focal psychiatric assessments, intakes, triage, and treatment planning for adult patients seeking substance use treatment
+
 
               **Adult & Pediatric HIV Comprehensive Services:**
 
@@ -123,7 +126,7 @@ sections:
           date_end: 2020-06-30
           description: >-
               
-              ** Psychotherapy Research Development Program:**
+              **Psychotherapy Research Development Program:**
 
               * Provided individual psychotherapy for adult veterans with PTSD, severe mood and anxiety disorders, and character disorders, utilizing a variety of treatment approaches, including long-term psychodynamic psychotherapy, short-term Dynamic Interpersonal Therapy (DIT), Formulation-Based CBT, and CBT-I
 
@@ -174,6 +177,7 @@ sections:
 
               * Conduct weekly unstructured intakes and standardized diagnostic assessments, using the Clinician-Administered PTSD Scale for DSM-5 (CAP-5) and Mini International Neuropsychiatric Interview (MINI), for adult clients seeking services at the clinic
 
+
               **William Randolph Hearst Burn Center:**
 
               * Provide consultation to assess psychiatric symptoms and brief cognitive-behavioral interventions at bedside to recently traumatized adult patients admitted to the medical inpatient unit
@@ -214,6 +218,7 @@ sections:
 
               * Administered tests assessing cognitive functioning, executive functioning, memory, & personality along with projective tests
 
+
               **Psychodynamic Psychotherapy:**
 
               * Conduct intakes and twice weekly psychodynamic psychotherapy sessions for adult outpatients presenting at a community mental health clinic
@@ -222,6 +227,7 @@ sections:
 
               * Develop and implement treatment plans from varying approaches including relational, object-relations, transference-focused, and relational modalities
 
+
               **Cognitive-Behavioral Therapy:**
 
               * Conducted intakes and weekly Cognitive Behavioral psychotherapy sessions for adult outpatients presenting at a community mental health clinic
@@ -229,6 +235,7 @@ sections:
               * Clients ranged in age from 25 to 30
 
               * Implemented treatment approaches drawing from the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders and third wave CBT approaches including Acceptance and Commitment Therapy and Mindfulness-Based Cognitive Therapy
+
 
               **Psychological Assessment:**
 
