@@ -16,7 +16,7 @@ main:
   - name: Talks
     url: '/event'
     weight: 50
-  - name: Courses & Tutoring
+  - name: Teaching
     url: '/teaching'
     weight: 60
   - name: Publications
