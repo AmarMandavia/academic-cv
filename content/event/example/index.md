@@ -1,28 +1,42 @@
 ---
-abstract: Large language models (LLMs) are a type of artificial intelligence that are capable of generating human-quality text. They have been shown to be effective in a variety of tasks, including writing, translation, and summarization. In this presentation, we will discuss the potential of LLMs to be used in academic grant writing. We will present a case study that uses ChatGPT and Bard to generate early career style grant proposals. We will also discuss the limitations of LLMs, as well as some potential use cases and future directions for research.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
 address:
-  city: Boston
+  city: Stanford
   country: United States
-  postcode: "02118"
-  region: MA
+  postcode: "94305"
+  region: CA
+  street: 450 Serra Mall
 all_day: false
-authors: admin
-date: "2030-09-19T12:00:00Z"
-date_end: "2030-09-19T13:00:00Z"
-event: "General Internal Medicine: Research in Progress"
-event_url: ""
+authors: []
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+event: Wowchemy Conference
+event_url: https://example.org
 featured: false
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-location: Boston University, School of Medicine
+location: Wowchemy HQ
 math: true
-publishDate: "2023-12-03T00:00:00Z"
-slides: ""
-tags: 
-  - LLMs
-  - Academia
-
-title: LLMs and Grants
-url_pdf: static/SMALL_LLMs in Academic Grant Writing.pdf
+publishDate: "2017-01-01T00:00:00Z"
+slides: example
+summary: An example talk using Wowchemy's Markdown slides feature.
+tags: []
+title: Example Talk
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
+
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
