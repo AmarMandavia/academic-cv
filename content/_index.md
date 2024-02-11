@@ -19,7 +19,7 @@ sections:
           position: center
           parallax: false
 
-  - block: education
+education:
     courses:
       - course: PhD in Clinical Psychology
         institution: Teachers College, Columbia University
@@ -31,7 +31,7 @@ sections:
         institution: Georgia State University
         year: 2013
 
-  - block: markdown
+      - block: markdown
     content:
       title: ""
       subtitle: ""
