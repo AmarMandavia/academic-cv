@@ -18,8 +18,7 @@ sections:
           size: cover
           position: center
           parallax: false
-
-- block: markdown
+  - block: markdown
     content:
       title: ""
       subtitle: ""
@@ -57,4 +56,3 @@ design:
   columns: "1"
 
 ---
-null
