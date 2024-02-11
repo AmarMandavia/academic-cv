@@ -4,7 +4,7 @@ superuser: false
 sections:
   -block: about.biography
   id: about
-  content: null
+  content: 
   title: Biography
   username: amar
 user_group: Principal Investigator
