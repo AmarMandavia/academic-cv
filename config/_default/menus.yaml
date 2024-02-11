@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '/research'
     weight: 30
-  - name: Clinical
+  - name: Training
     url: '/clinical'
     weight: 40
   - name: Talks
@@ -23,7 +23,7 @@ main:
     url: '/publication'
     weight: 70
   - name: People
-    url: '/people'
+    url: '/authors'
     weight: 80
   - name: Contact
     url: '/contact'
