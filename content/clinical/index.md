@@ -1,5 +1,5 @@
 ---
-title: 'Training Experiences'
+title: 'Education and Training Experience'
 date: 2023-10-24
 type: landing
 
@@ -7,17 +7,34 @@ design:
   spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
-education:
-  courses:
-    - course: PhD in Clinical Psychology
-      institution: Teachers College, Columbia University
-      year: 2022
-    - course: MA in Psychology in Education 
-      institution: Teachers College, Columbia University
-      year: 2016
-    - course: BSc in Psychology (Minor in Sociology)
-      institution: Georgia State University
-      year: 2013
+sections:
+  - block: experience
+    content:
+      items:
+        - title: PhD in Clinical Psychology
+          company: Teachers College, Columbia University
+          company_url: https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/
+          company_logo: TC_Logo_Stacked_Centered_White
+          location: New York, New York
+          date_start: 2016-09-01
+          date_end: 2022-10-01
+          
+          - title: MA in Psychology in Education
+          company: Teachers College, Columbia University
+          company_url: https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/
+          company_logo: TC_Logo_Stacked_Centered_White
+          location: New York, New York
+          date_start: 2014-09-01
+          date_end: 2016-05-01
+
+          - title: BSc in Psychology (Minor in Sociology)
+          company: Georgia State University
+          company_url: https://psychology.gsu.edu/
+          company_logo: GSU_logo
+          location: Atlanta, Georgia
+          date_start: 2010-08-01
+          date_end: 2013-05-01
+
 
 # Page sections
 sections:
