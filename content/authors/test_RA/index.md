@@ -19,5 +19,5 @@ education:
       institution: Georgia State University
       year: 2013
 user_group: 
-- RAs
+- Research Assistants
 ---
