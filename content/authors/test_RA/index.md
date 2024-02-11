@@ -18,6 +18,5 @@ education:
     - course: BSc in Psychology (Minor in Sociology)
       institution: Georgia State University
       year: 2013
-user_group: 
-- Research Assistants
+user_group: "Research Assistants"
 ---
