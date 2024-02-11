@@ -23,7 +23,7 @@ main:
     url: '/publication'
     weight: 70
   - name: People
-    url: '/authors'
+    url: '/people'
     weight: 80
   - name: Contact
     url: '/contact'

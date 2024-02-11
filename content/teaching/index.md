@@ -6,6 +6,8 @@ authors:
   - admin
 tages:
   - Teaching 
+# View
+view: card
 
 sections:
   - block: markdown
@@ -14,3 +16,4 @@ sections:
       items:
         
 ---
+

@@ -28,6 +28,7 @@ sections:
 
         My secondary line of research is concentrated on the development of a clinical decision-making systems that aid in psychotherapy treatment implementation and selection. 
 
+        
         **Interest:** 
 
         - Risk Prediction

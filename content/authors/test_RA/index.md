@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Test RA
-url: "/authors/test_RA"
 
 # Is this the primary user of the site?
 superuser: false

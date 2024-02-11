@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Amar D. Mandavia 
-url: "/authors/amar"
 
 # Is this the primary user of the site?
 superuser: false
