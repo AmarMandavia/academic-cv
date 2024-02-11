@@ -19,19 +19,7 @@ sections:
           position: center
           parallax: false
 
-education:
-    courses:
-      - course: PhD in Clinical Psychology
-        institution: Teachers College, Columbia University
-        year: 2022
-      - course: MA in Psychology in Education
-        institution: Teachers College, Columbia University
-        year: 2016 
-      - course: BSc in Psychology (Minor in Sociology)
-        institution: Georgia State University
-        year: 2013
-
-      - block: markdown
+- block: markdown
     content:
       title: ""
       subtitle: ""
