@@ -19,6 +19,7 @@ sections:
           description: >-
             **Dissertation:** _“Modeling Mechanisms of Human Immunodeficiency Virus and Sexually Transmitted Infections Contraction Among Serodiscordant Couples”_
             
+
             **MPhil. Thesis:** _“Prospective Prediction of PTSD Onset: A Machine Learning Approach to Analysis”_
 
         - title: MA in Psychology in Education
@@ -31,6 +32,7 @@ sections:
           description: >-
             **Concentration:** Global Mental Health and Trauma; Research Methods 
 
+
             **Thesis:** _“Exploratory Analysis of Psychosocial Factors and Trauma among the Homeless: Implications for Recovery"_
 
         - title: BSc in Psychology (Minor in Sociology)
@@ -42,6 +44,7 @@ sections:
           date_end: 2013-05-01
           description: >-
             **Minor:** Sociology
+
 
             _Summa Cum Laude_
 
