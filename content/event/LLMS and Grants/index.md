@@ -8,8 +8,8 @@ address:
   region: MA
   street: ''
 all_day: false
-date: "2030-09-19T12:00:00Z"
-date_end: "2030-09-19T13:00:00Z"
+date: "2023-09-19T12:00:00Z"
+date_end: "2023-09-19T13:00:00Z"
 event: "General Internal Medicine: Research in Progress"
 featured: true 
 image:

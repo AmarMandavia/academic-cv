@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
+    org_name: 'Amar Mandavia'
+    description: 'Clinical psychologist, informatician'
+    twitter: '@amar36'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

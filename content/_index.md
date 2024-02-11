@@ -23,6 +23,11 @@ sections:
       title: ""
       subtitle: ""
       text: >-
+        My primary program of research takes a critical approach to the measurement, classification, and identification of digital phenotypes for adverse health outcomes.
+
+
+        My secondary line of research is concentrated on the development of a clinical decision-making systems that aid in psychotherapy treatment implementation and selection. 
+
         **Interest:** 
 
         - Risk Prediction
@@ -37,21 +42,6 @@ sections:
           - Psychosis
           - HIV/STI
           - PTSD
-
-
-        My primary program of research takes a critical approach to the measurement, classification, and identification of digital phenotypes for adverse health outcomes.
-
-
-        My secondary line of research is concentrated on the development of a clinical decision-making systems that aid in psychotherapy treatment implementation and selection. 
-
-
-        **Answering questions:**
-
-        - Who gets sick and why?
-
-        - How can we deliver information to have the greatest positive impact?
-
-        - How can we get proven treatments to people faster?
 design:
   columns: "1"
 

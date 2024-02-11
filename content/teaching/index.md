@@ -1,13 +1,16 @@
 ---
-title: Education and Training Experience
+title: Teaching, Advisement, and Mentoring
 date: 2023-10-24
 type: landing
-design:
-  spacing: 5rem
+authors: 
+  - admin
+tages:
+  - Teaching 
+
 sections:
-  - block: experience
+  - block: resume-awards
     content:
-      title: Education
+      title: Teaching
       items:
         - title: PhD in Clinical Psychology
           company: Teachers College, Columbia University
@@ -33,7 +36,7 @@ sections:
 
             **Thesis:** _“Exploratory Analysis of Psychosocial Factors and Trauma among the Homeless: Implications for Recovery"_
 
-        - title: BSc in Psychology (Minor in Sociology)
+        - title: BSc in Psychology
           company: Georgia State University
           company_url: https://psychology.gsu.edu/
           company_logo: GSU_logo
