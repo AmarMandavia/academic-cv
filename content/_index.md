@@ -18,6 +18,19 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: education
+    courses:
+      - course: PhD in Clinical Psychology
+        institution: Teachers College, Columbia University
+        year: 2022
+      - course: MA in Psychology in Education
+        institution: Teachers College, Columbia University
+        year: 2016 
+      - course: BSc in Psychology (Minor in Sociology)
+        institution: Georgia State University
+        year: 2013
+
   - block: markdown
     content:
       title: ""
@@ -38,11 +51,11 @@ sections:
           - HIV/STI
           - PTSD
 
-      
+
         My primary program of research takes a critical approach to the measurement, classification, and identification of digital phenotypes for adverse health outcomes.
-        
-        
-        My secondary line of research is concentrated on the development of a clinical decision-making systems that capitalize on common factors across psychotherapeutic processes to aid in personalized psychotherapy treatment selection. 
+
+
+        My secondary line of research is concentrated on the development of a clinical decision-making systems that aid in psychotherapy treatment implementation and selection. 
 
 
         **Answering questions:**
@@ -54,4 +67,6 @@ sections:
         - How can we get proven treatments to people faster?
 design:
   columns: "1"
+
 ---
+null
