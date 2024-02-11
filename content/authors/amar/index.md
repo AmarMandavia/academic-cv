@@ -1,16 +1,12 @@
 ---
-# Display name
-title: Amar D. Mandavia 
-
-# Is this the primary user of the site?
+title: Amar D. Mandavia
 superuser: false
-
 sections:
   -block: about.biography
-   id: about
-   content: 
-    title: Biography
-    username: amar
+  id: about
+  content: null
+  title: Biography
+  username: amar
+user_group: Principal Investigator
 
-user_group: "Principal Investigator"
 ---
