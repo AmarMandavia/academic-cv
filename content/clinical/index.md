@@ -18,7 +18,7 @@ sections:
           location: New York, New York
           date_start: 2016-09-01
           date_end: 2022-10-01
-          
+          description: ""
           - title: MA in Psychology in Education
           company: Teachers College, Columbia University
           company_url: https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/
@@ -26,7 +26,7 @@ sections:
           location: New York, New York
           date_start: 2014-09-01
           date_end: 2016-05-01
-
+          description: ""
           - title: BSc in Psychology (Minor in Sociology)
           company: Georgia State University
           company_url: https://psychology.gsu.edu/
@@ -34,6 +34,7 @@ sections:
           location: Atlanta, Georgia
           date_start: 2010-08-01
           date_end: 2013-05-01
+          description: ""
 
 
 # Page sections
