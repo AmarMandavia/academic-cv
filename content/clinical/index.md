@@ -7,23 +7,30 @@ design:
 sections:
   - block: experience
     content:
+      title: Education
       items:
         - title: PhD in Clinical Psychology
           company: Teachers College, Columbia University
           company_url: https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/
-          company_logo: TC_Logo_Stacked_Centered_White
+          company_logo: TC_Logo_Stacked_Centered
           location: New York, New York
           date_start: 2016-09-01
           date_end: 2022-10-01
-          description: ""
+          description: >-
+            **Dissertation:** _“Modeling Mechanisms of Human Immunodeficiency Virus and Sexually Transmitted Infections Contraction Among Serodiscordant Couples”_
+            **MPhil. Thesis:** _“Prospective Prediction of PTSD Onset: A Machine Learning Approach to Analysis”_
+
         - title: MA in Psychology in Education
           company: Teachers College, Columbia University
           company_url: https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/
-          company_logo: TC_Logo_Stacked_Centered_White
+          company_logo: TC_Logo_Stacked_Centered
           location: New York, New York
           date_start: 2014-09-01
           date_end: 2016-05-01
-          description: ""
+          description: >-
+            **Concentration:** Global Mental Health and Trauma; Research Methods 
+            **Thesis:** _“Exploratory Analysis of Psychosocial Factors and Trauma among the Homeless: Implications for Recovery"_
+
         - title: BSc in Psychology (Minor in Sociology)
           company: Georgia State University
           company_url: https://psychology.gsu.edu/
@@ -31,9 +38,13 @@ sections:
           location: Atlanta, Georgia
           date_start: 2010-08-01
           date_end: 2013-05-01
-          description: ""
+          description: >-
+            **Minor:** Sociology 				                              
+            _Summa Cum Laude_
+
   - block: experience
     content:
+      title: Clinical Training
       items:
         - title: Postdoctoral Psychologist
           company: Boston Veterans Affairs Healthcare System
